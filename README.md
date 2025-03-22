@@ -84,12 +84,6 @@ yarn dev
 
 5. Open [http://localhost:5173](http://localhost:5173) in your browser
 
-## 📱 Screenshots
-
-<div align="center">
-  <img src="public/github.svg" alt="GitHub Clone Logo" width="200"/>
-</div>
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -107,7 +101,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 - GitHub: [@rayanroubio](https://github.com/rayanroubio)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/roubio)
+- LinkedIn: [@roubio](https://linkedin.com/in/roubio)
 
 ## 🙏 Acknowledgments
 
