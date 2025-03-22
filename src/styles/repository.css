@@ -1,0 +1,7 @@
+.syntax-highlighter {
+  background-color: white !important;
+}
+
+.syntax-highlighter code {
+  font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace !important;
+} 
